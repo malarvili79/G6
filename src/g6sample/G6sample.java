@@ -16,6 +16,7 @@ public class G6sample {
      */
     public static void main(String[] args) {
         System.out.println("HHINJIJIJI");
+        System.out.println("ddddd");
     }
     
 }
